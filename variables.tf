@@ -4,7 +4,7 @@ variable "tenancy_ocid" {}
 #variable "private_key_path" {}
 #variable "compartment_ocid" {}
 variable "region" {
-default = "us-ashburn-1"
+  default = "us-ashburn-1"
 }
 variable "private_key_oci" {}
 variable "public_key_oci" {}
